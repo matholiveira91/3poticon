@@ -1,0 +1,9 @@
+https://www.linux-kvm.org/page/Main_Page
+https://pt.wikipedia.org/wiki/QEMU
+https://wiki.qemu.org/Main_Page
+https://www.proxmox.com/en/downloads/item/proxmox-ve-datasheet
+https://www.techopedia.com/definition/14235/five-nines
+https://www.techopedia.com/definition/14235/five-nines
+https://www.redhat.com/pt-br/topics/virtualization/what-is-virtualization
+https://wiki.openvz.org/Main_Page
+http://www.locus.ufv.br/bitstream/handle/123456789/2594/texto%20completo.pdf?sequence=1

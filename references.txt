@@ -8,3 +8,4 @@ https://wiki.openvz.org/Main_Page
 http://www.locus.ufv.br/bitstream/handle/123456789/2594/texto%20completo.pdf?sequence=1
 https://en.wikipedia.org/wiki/LXC
 https://pt.wikipedia.org/wiki/QEMU
+https://medium.com/@matheusoliveiratux4me/proxmox-uma-solu%C3%A7%C3%A3o-inteligente-para-virtualiza%C3%A7%C3%A3o-435d79ced3be
